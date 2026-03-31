@@ -25,9 +25,9 @@ Cybersecurity B.S. Candidate @ Purdue University Indianapolis
 [![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-E8C84A?style=for-the-badge&logo=airplayaudio&logoColor=black)](https://www.aircrack-ng.org)
 [![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=python&logoColor=white)](https://sqlmap.org)
 [![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)](https://www.zaproxy.org)
-[![OWASP Threat Dragon](https://img.shields.io/badge/OWASP_Threat_Dragon-00549E?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/www-project-threat-dragon)
+[![Threat Dragon](https://img.shields.io/badge/OWASP_Threat_Dragon-00549E?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/www-project-threat-dragon)
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org)
-<!--[![Kismet](https://img.shields.io/badge/Kismet-2D2D2D?style=for-the-badge&logoColor=white)](https://www.kismetwireless.net)-->
+[![Kismet](https://img.shields.io/badge/Kismet-2D2D2D?style=for-the-badge&logoColor=white)](https://www.kismetwireless.net)
 
 **Areas of Focus**
 
