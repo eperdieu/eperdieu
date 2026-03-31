@@ -23,6 +23,11 @@ Cybersecurity B.S. Candidate @ Purdue University Indianapolis
 [![Autopsy](https://img.shields.io/badge/Autopsy-2E4057?style=for-the-badge&logo=files&logoColor=white)](https://www.autopsy.com)
 [![John the Ripper](https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](https://www.openwall.com/john)
 [![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-E8C84A?style=for-the-badge&logo=airplayaudio&logoColor=black)](https://www.aircrack-ng.org)
+[![Nessus](https://img.shields.io/badge/Nessus-00B4C8?style=for-the-badge&logo=tenable&logoColor=white)](https://www.tenable.com/products/nessus)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com)
+[![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
+[![OWASP Threat Dragon](https://img.shields.io/badge/OWASP_Threat_Dragon-00549E?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/www-project-threat-dragon)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-E62B1E?style=for-the-badge&logoColor=white)](https://attack.mitre.org)
 
 
 **Areas of Focus**
