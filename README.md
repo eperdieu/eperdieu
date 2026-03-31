@@ -13,7 +13,17 @@ Cybersecurity B.S. Candidate @ Purdue University Indianapolis
 
 **Tools & Skills**
 
-`Wireshark` `Autopsy` `Kali Linux` `John the Ripper` `Aircrack-ng` `Kismet` `OWASP ZAP` `SQLmap` `Python` `AWS` `Terraform`
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)
+[![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)](https://www.zaproxy.org)
+[![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=python&logoColor=white)](https://sqlmap.org)
+[![Autopsy](https://img.shields.io/badge/Autopsy-2E4057?style=for-the-badge&logo=files&logoColor=white)](https://www.autopsy.com)
+[![John the Ripper](https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](https://www.openwall.com/john)
+[![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-E8C84A?style=for-the-badge&logo=airplayaudio&logoColor=black)](https://www.aircrack-ng.org)
+[![Kismet](https://img.shields.io/badge/Kismet-2D2D2D?style=for-the-badge&logo=gnuradio&logoColor=white)](https://www.kismetwireless.net)
 
 **Areas of Focus**
 
