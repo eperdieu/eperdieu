@@ -13,11 +13,11 @@ Cybersecurity B.S. Candidate @ Purdue University Indianapolis
 
 **Tools & Skills**
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
 [![Autopsy](https://img.shields.io/badge/Autopsy-2E4057?style=for-the-badge&logo=files&logoColor=white)](https://www.autopsy.com)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)
 [![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com)
 [![Nmap](https://custom-icon-badges.demolab.com/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
 [![Nessus](https://custom-icon-badges.demolab.com/badge/Nessus-00B4C8?style=for-the-badge&logoColor=white)](https://www.tenable.com/products/nessus)
