@@ -35,7 +35,7 @@ Digital Forensics · Offensive Security · Network Security · Web Application S
 
 ---
 
-📫 Connect with me on [LinkedIn](www.linkedin.com/in/ethan-perdieu-1438271b8) · Indianapolis, IN
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ethan-perdieu-1438271b8) · Indianapolis, IN
 
 <!--
 **eperdieu/eperdieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
