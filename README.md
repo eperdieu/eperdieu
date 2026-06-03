@@ -33,6 +33,12 @@ Cybersecurity B.S. Candidate @ Purdue University Indianapolis
 
 Digital Forensics · Offensive Security · Network Security · Web Application Security · Cloud Security
 
+## Featured Repositories
+
+- [digital-forensics-labs](https://github.com/eperdieu/digital-forensics-labs) - Disk image analysis, file carving, and artifact recovery using Autopsy and Python
+- [offensive-security-labs](https://github.com/eperdieu/offensive-security-labs) - Penetration testing labs covering exploitation, persistence, and post-exploitation  
+- [risk-and-compliance](https://github.com/eperdieu/risk-and-compliance) - Security risk assessments and compliance framework documentation
+
 ---
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ethan-perdieu/) · Indianapolis, IN
