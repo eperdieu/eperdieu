@@ -35,7 +35,7 @@ Cloud Security · Digital Forensics · Offensive Security · Network Security ·
 
 ## Featured Repositories
 
-- [C.R.O.P.](PASTE_YOUR_CROP_REPO_LINK_HERE): Conservation and Revenue Opportunity Portal, a free platform that helps Indiana farmers find conservation incentive programs. Built on AWS (ECS Fargate, RDS, ECR, Secrets Manager) with Terraform and a CI/CD pipeline
+- [C.R.O.P.](https://github.com/TheDataMine/f2024_s2025_indy_indianasoybeanalliance_farmconservationwebscraping.git): Conservation and Revenue Opportunity Portal, a free platform that helps Indiana farmers find conservation incentive programs. Built on AWS (ECS Fargate, RDS, ECR, Secrets Manager) with Terraform and a CI/CD pipeline
 - [risk-and-compliance](https://github.com/eperdieu/risk-and-compliance): Security risk assessments and compliance framework documentation
 - [digital-forensics-labs](https://github.com/eperdieu/digital-forensics-labs): Disk image analysis, file carving, and artifact recovery using Autopsy and Python
 - [offensive-security-labs](https://github.com/eperdieu/offensive-security-labs): Penetration testing labs covering exploitation, persistence, and post exploitation
