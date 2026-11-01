@@ -1,4 +1,4 @@
-## Hi, I'm Ethan 👋
+<p align="center"><img src="assets/typing.svg" alt="Ethan Perdieu, cloud and DevOps engineer" width="700"></p>
 
 Cybersecurity graduate from Purdue University Indianapolis (B.S., May 2026)
 
