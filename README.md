@@ -1,45 +1,39 @@
 <p align="center"><img src="assets/typing.svg" alt="Ethan Perdieu, cloud and DevOps engineer" width="700"></p>
 
-Cybersecurity graduate from Purdue University Indianapolis (B.S., May 2026)
+B.S. Cybersecurity, Purdue Polytechnic Institute (May 2026)
 
 ---
 
-- Built secure AWS cloud infrastructure for C.R.O.P. through [The Data Mine](https://datamine.purdue.edu), a project for the Indiana Soybean Alliance and Indiana Corn Marketing Council
-- Focused on cloud security, digital forensics & offensive security
-- Pursuing CompTIA Security+ certification
-- Seeking full time opportunities in cloud, IT and cybersecurity
+* DevOps and cloud engineer on C.R.O.P. through [The Data Mine](https://datamine.purdue.edu), a project for the Indiana Soybean Alliance and Indiana Corn Marketing Council. I built the AWS infrastructure in Terraform and the GitHub Actions CI/CD pipeline
+* Interests: cloud security, digital forensics and offensive security
+* Pursuing AWS Cloud Practitioner (exam December 9, 2026) and CompTIA Security+
 
 ---
 
-**Tools & Skills**
+### Tools and Skills
 
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org)
-[![Autopsy](https://img.shields.io/badge/Autopsy-2E4057?style=for-the-badge&logo=files&logoColor=white)](https://www.autopsy.com)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com)
-[![Nmap](https://custom-icon-badges.demolab.com/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org)
-[![Nessus](https://custom-icon-badges.demolab.com/badge/Nessus-00B4C8?style=for-the-badge&logoColor=white)](https://www.tenable.com/products/nessus)
-[![John the Ripper](https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](https://www.openwall.com/john)
-[![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-E8C84A?style=for-the-badge&logo=airplayaudio&logoColor=black)](https://www.aircrack-ng.org)
-[![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logo=python&logoColor=white)](https://sqlmap.org)
-[![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)](https://www.zaproxy.org)
-[![Threat Dragon](https://img.shields.io/badge/OWASP_Threat_Dragon-00549E?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org/www-project-threat-dragon)
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org)
+**Cloud and DevOps:** AWS · Terraform · Docker · GitHub Actions · CI/CD · Python · SQL
 
-**Areas of Focus**
+**Security and Networking:** Wireshark · Nmap · Nessus · Metasploit · Aircrack ng · John the Ripper
 
-Cloud Security · Digital Forensics · Offensive Security · Network Security · Web Application Security
-
-## Featured Repositories
-
-- [C.R.O.P.](https://github.com/TheDataMine/f2024_s2025_indy_indianasoybeanalliance_farmconservationwebscraping.git): Conservation and Revenue Opportunity Portal, a free platform that helps Indiana farmers find conservation incentive programs. Built on AWS (ECS Fargate, RDS, ECR, Secrets Manager) with Terraform and a CI/CD pipeline
-- [risk-and-compliance](https://github.com/eperdieu/risk-and-compliance): Security risk assessments and compliance framework documentation
-- [digital-forensics-labs](https://github.com/eperdieu/digital-forensics-labs): Disk image analysis, file carving, and artifact recovery using Autopsy and Python
-- [offensive-security-labs](https://github.com/eperdieu/offensive-security-labs): Penetration testing labs covering exploitation, persistence, and post exploitation
+**Forensics and Web:** Autopsy · sqlmap · OWASP ZAP · OWASP Threat Dragon · Kali Linux
 
 ---
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/ethan-perdieu/) · Indianapolis, IN
+### Areas of Focus
+
+**Cloud Security** · **Digital Forensics** · **Offensive Security** · **Network Security** · **Web Application Security**
+
+---
+
+### Featured Project
+
+**[C.R.O.P. Cloud Infrastructure](https://github.com/eperdieu/crop-aws-infrastructure)**: my DevOps and cloud work on a free platform that helps Indiana farmers find conservation incentive programs. AWS (ECS Fargate, RDS, ECR, Secrets Manager), Terraform and GitHub Actions CI/CD. This repo shows my part of the project, not the full project.
+
+### Other Repositories
+
+**[digital-forensics-labs](https://github.com/eperdieu/digital-forensics-labs)** · **[offensive-security-labs](https://github.com/eperdieu/offensive-security-labs)** · **[risk-and-compliance](https://github.com/eperdieu/risk-and-compliance)**
+
+---
+
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/ethan-perdieu)** · Indianapolis, IN
