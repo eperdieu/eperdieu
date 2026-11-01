@@ -18,12 +18,11 @@ An index of the courses behind my cybersecurity and cloud work, and the skills I
 
 ### Other Repositories
 
-**[View folder](CIT_20200_Networking_Fundamentals)**
-**[View folder](CIT_30900_Cybersecurity_Network_Programming)**
-**[View folder](CIT_27000_Java_Programming)**
-**[View folder](OLS_37100_Project_Management)**
-**[View folder](TCM_34000_Professional_Communication)**
-**[View folder](OLS_26300_Ethical_Decisions)**
+
+
+
+
+
 
 ---
 
@@ -36,7 +35,7 @@ An index of the courses behind my cybersecurity and cloud work, and the skills I
 * Network security concepts: CIA triad, common attack types, DHCP and DNS spoofing, DMZ design
 * Cloud networking: VPCs, gateways, security groups, infrastructure as code, and zero trust
 
-**[View folder](https://github.com/eperdieu/coursework/tree/main/CIT_20200_Networking_Fundamentals)**
+**[View folder](CIT_20200_Networking_Fundamentals)**
 
 ---
 
@@ -45,7 +44,7 @@ An index of the courses behind my cybersecurity and cloud work, and the skills I
 * Python tools for security work: a firewall log analyzer, a domain and Shodan lookup tool, an exposure checker, and a regex based data cleaner
 * Unit testing, command line tools, REST APIs, and bash scripting
 
-**[View folder](https://github.com/eperdieu/coursework/tree/main/CIT_30900_Cybersecurity_Network_Programming)**
+**[View folder](CIT_30900_Cybersecurity_Network_Programming)**
 
 ---
 
@@ -54,7 +53,7 @@ An index of the courses behind my cybersecurity and cloud work, and the skills I
 * Object oriented programming in Java: inheritance, interfaces, inner classes, and GUI design
 * Team banking application project (coming soon)
 
-**[View folder]([[https://github.com/eperdieu/coursework/tree/main/CIT_27000_Java_Programming](https://github.com/eperdieu/Coursework_Index/tree/cd8aac36f410c1e35951de2088ac65a8a8165055/CIT_27000_JavaProgramming)](https://github.com/eperdieu/Coursework_Index/tree/main/CIT_27000_JavaProgramming))**
+**[View folder](CIT_27000_Java_Programming)**
 
 ---
 
@@ -64,7 +63,7 @@ An index of the courses behind my cybersecurity and cloud work, and the skills I
 * Budgeting and earned value management
 * Group project planning for a simulated nonprofit
 
-**[View folder](https://github.com/eperdieu/coursework/tree/main/OLS_37100_Project_Management)**
+**[View folder](OLS_37100_Project_Management)**
 
 ---
 
@@ -73,7 +72,7 @@ An index of the courses behind my cybersecurity and cloud work, and the skills I
 * Writing neutral, persuasive, and bad news messages for different audiences
 * Tone, structure, and revision for workplace communication
 
-**[View folder](https://github.com/eperdieu/coursework/tree/main/TCM_34000_Professional_Communication)**
+**[View folder](TCM_34000_Professional_Communication)**
 
 ---
 
@@ -82,7 +81,7 @@ An index of the courses behind my cybersecurity and cloud work, and the skills I
 * Ethical frameworks and case analysis
 * Professional codes of conduct, including the ISSA Code of Ethics
 
-**[View folder](https://github.com/eperdieu/coursework/tree/main/OLS_26300_Ethical_Decisions)**
+**[View folder](OLS_26300_Ethical_Decisions)**
 
 ---
 
