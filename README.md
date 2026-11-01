@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/typing.svg" alt="Ethan Perdieu, cloud and DevOps engineer" width="700"></p>
+<p align="center"><img src="assets/typing.svg" alt="Ethan Perdieu, cloud and DevOps engineer" width="100%"></p>
 
 B.S. Cybersecurity, Purdue Polytechnic Institute (May 2026)
 
@@ -12,11 +12,7 @@ B.S. Cybersecurity, Purdue Polytechnic Institute (May 2026)
 
 ### Tools and Skills
 
-**Cloud and DevOps:** AWS · Terraform · Docker · GitHub Actions · CI/CD · Python · SQL
-
-**Security and Networking:** Wireshark · Nmap · Nessus · Metasploit · Aircrack ng · John the Ripper
-
-**Forensics and Web:** Autopsy · sqlmap · OWASP ZAP · OWASP Threat Dragon · Kali Linux
+<img src="assets/skills.svg" alt="Tools and skills: AWS, Terraform, Docker, GitHub Actions, Python, SQL, Wireshark, Metasploit, Kali Linux, Nmap, Nessus, John the Ripper, Aircrack ng, Autopsy, sqlmap, OWASP ZAP, OWASP Threat Dragon" width="100%">
 
 ---
 
