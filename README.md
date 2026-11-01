@@ -93,6 +93,15 @@ An index of the courses behind my cybersecurity and cloud work, and the skills I
 
 **Networking**: Ethernet, wireless, VLANs, structured cabling, cloud networking
 
+### Visual Design for Software (CIT 37300)
+
+* User centered design in Figma: personas, site tree diagrams, wireframes, and prototypes
+* Usability review, typography, and design principles
+
+**[View folder](CIT_37300_VisualDesign)**
+
+---
+
 ---
 
 **[Connect with me on LinkedIn](https://www.linkedin.com/in/ethan-perdieu)** · Indianapolis, IN
