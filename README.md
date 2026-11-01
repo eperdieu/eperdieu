@@ -49,7 +49,7 @@ An index of the courses behind my cybersecurity and cloud work, and the skills I
 * Object oriented programming in Java: inheritance, interfaces, inner classes, and GUI design
 * Team banking application project (coming soon)
 
-**[View folder]([https://github.com/eperdieu/coursework/tree/main/CIT_27000_Java_Programming](https://github.com/eperdieu/Coursework_Index/tree/cd8aac36f410c1e35951de2088ac65a8a8165055/CIT_27000_JavaProgramming))**
+**[View folder]([[https://github.com/eperdieu/coursework/tree/main/CIT_27000_Java_Programming](https://github.com/eperdieu/Coursework_Index/tree/cd8aac36f410c1e35951de2088ac65a8a8165055/CIT_27000_JavaProgramming)](https://github.com/eperdieu/Coursework_Index/tree/main/CIT_27000_JavaProgramming))**
 
 ---
 
