@@ -18,7 +18,12 @@ An index of the courses behind my cybersecurity and cloud work, and the skills I
 
 ### Other Repositories
 
-**[digital-forensics-labs](https://github.com/eperdieu/digital-forensics-labs)** · **[offensive-security-labs](https://github.com/eperdieu/offensive-security-labs)** · **[risk-and-compliance](https://github.com/eperdieu/risk-and-compliance)** · **[ctf-writeups](https://github.com/eperdieu/ctf-writeups)**
+**[View folder](CIT_20200_Networking_Fundamentals)**
+**[View folder](CIT_30900_Cybersecurity_Network_Programming)**
+**[View folder](CIT_27000_Java_Programming)**
+**[View folder](OLS_37100_Project_Management)**
+**[View folder](TCM_34000_Professional_Communication)**
+**[View folder](OLS_26300_Ethical_Decisions)**
 
 ---
 
